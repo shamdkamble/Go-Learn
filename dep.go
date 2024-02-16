@@ -6,8 +6,12 @@ func DoSomething()string{
 
 }
 
-func SecondDo() int {
+func SecondDo()int{
 
-  return 369
+  x  := 15
+  y := 16 
+  z := x+y
+  
+  return z
 
 }
