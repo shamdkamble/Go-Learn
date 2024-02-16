@@ -1,17 +1,11 @@
 package test 
 
-func DoSomething()string{
+func DoSomething()int{
 
-         return "This is imported function from different package !"
+         return 369
 
 }
 
-func Xyz()int{
 
-  x  := 15
-  y := 16 
-  z := x+y
-  
-  return z
 
 }
