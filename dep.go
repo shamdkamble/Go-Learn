@@ -21,4 +21,10 @@ func Xyz() string{
   return "This created for version 2 of this file "
 }
 
+func JustTag() string{
+
+
+  return "This created for version 1.0.0 of this file "
+}
+
 
