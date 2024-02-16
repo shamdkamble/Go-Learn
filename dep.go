@@ -6,7 +6,7 @@ func DoSomething()string{
 
 }
 
-func SecondDo()int{
+func xyz()int{
 
   x  := 15
   y := 16 
