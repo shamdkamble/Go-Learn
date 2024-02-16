@@ -6,7 +6,7 @@ func DoSomething()string{
 
 }
 
-func SecondDO() int {
+func SecondDo() int {
 
   return 369
 
